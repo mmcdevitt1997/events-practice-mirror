@@ -1,0 +1,17 @@
+#green {
+    border-color: green;
+    border-style: solid;
+    width: 50%; 
+}
+#red {
+    border-color: red;
+    border-style: solid;
+    width: 50%; 
+    
+}
+.flex {
+    display: flex;
+    flex-direction: row; 
+    justify-content: space-evenly;
+    flex-flow: 'flex-direction'; 
+}
